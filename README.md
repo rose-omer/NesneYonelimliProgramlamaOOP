@@ -1,40 +1,37 @@
- Derinlemesine Java 1 : Nesne Yönelimli Programlama (OOP)
+# Derinlemesine Java 1: Nesne Yönelimli Programlama (OOP)
 
-
-
-
-# Java Kursu README
+Bu kurs, Java dilinde Nesne Yönelimli Programlama (OOP) prensiplerini derinlemesine incelemeyi hedefler. Önder Teker tarafından verilen bu Udemy kursu, hem temel hem de ileri düzey nesne yönelimli programlama konularına kapsamlı bir bakış sunar.
 
 ## Kurs İçeriği
 
-Bu kurs, Java dilinin ve platformunun temel bilgilerini ve nesneye yönelik programlamanın ilkelerini kapsamlı bir şekilde öğretmektedir. Sadece temel konular değil, aynı zamanda daha karmaşık ama kesinlikle gerekli konular da ele alınmaktadır. Kurs, Java diline girişten ileri seviyeye kadar geniş bir kapsama sahiptir.
+Kurs, aşağıdaki ana konuları kapsamaktadır:
 
-### Konular
+- **Nesne Yönelimli Programlama Temelleri**: Sınıflar (Classes), Nesneler (Objects), Metodlar (Methods), Özellikler (Attributes)
+- **Kalıtım (Inheritance)**: Üst sınıf (Superclass) ve alt sınıf (Subclass) ilişkileri, Kalıtımın avantajları
+- **Arayüzler (Interfaces)**: Arayüzlerin tanımı, Kullanımı, Polimorfizm
+- **Soyut Sınıflar (Abstract Classes)**: Soyut sınıf nedir, Ne zaman kullanılır, Soyut sınıf ve arayüz karşılaştırması
+- **Çok Biçimlilik (Polymorphism)**: Metod aşırı yükleme (Method Overloading), Metod ezme (Method Overriding)
 
-Kurs şu dört ana konu üzerine odaklanmıştır:
+## Öğrenilecekler
 
-1. **Nesne (Object) ve Çekirdek (Bean) Kavramı**
-   - Nesne ve bean kavramlarının temelleri
-   - Kullanım örnekleri
+- Nesne yönelimli programlama prensiplerini Java dilinde uygulamak
+- Kalıtım, arayüzler ve soyut sınıflar gibi OOP özelliklerini anlamak ve kullanmak
+- Polimorfizm ve diğer OOP tekniklerini etkili bir şekilde kullanmak
 
-2. **Biriktiriler (Collections) ve Nesneleri Bir Arada Kullanma, Bileşim (Composition)**
-   - Koleksiyonlar ve bileşim ilişkileri
-   - Pratik uygulama örnekleri
+## Kurs Gereksinimleri
 
-3. **Kalıtım (Inheritance), Arayüz (Interface) ve Soyut Sınıf (Abstract Class), Çok Biçimlilik (Polymorphism)**
-   - Kalıtım, arayüzler, soyut sınıflar ve çok biçimlilik prensipleri
-   - İleri düzey kullanım ve uygulamalar
+- Temel Java bilgisi
+- Temel bilgisayar kullanma becerisi
 
-4. **Temel Betiklikler (Libraries)**
-   - Girdi / Çıktı (Input / Output), Sicim (String) İşlemleri, Yivler (Threads) gibi kütüphaneler
-   - Diğer konular için yararlı olan temel kütüphaneler
+## Eğitmen
 
-### İleri Konular ve Uygulama Alanları
+**Önder Teker**  
+Godoro Yazılım Proje Eğitim Yayıncılık Portal E-Ticaret
 
-Bu kurs, aşağıdaki ileri konular için gerekli temel bilgileri sunar:
+## İletişim
 
-- **Spring Boot, Java Enterprise / Jakarta, ORM / JPA**
-- **MVC / JSF, REST / JAX-RS, SOAP / JAX-WS, EJB, JMS**
-- **Android ile Java veya Kotlin ile geliştirme**
+Kurs ile ilgili sorularınız veya geri bildirimleriniz için Udemy platformu üzerinden eğitmen ile iletişime geçebilirsiniz.
 
-Gelişmiş konuları anlamak için gerekli olan temel bilgileri içerir ve bu nedenle bazı konular, Java diline giriş için ileri olarak görülse de, ileri konular için temel oluşturmaktadır.
+---
+
+Bu README dosyası, kursun ana hatlarını ve içeriğini açıkça belirten bir yapıya sahiptir. Kursun detaylarını ve öğrenme hedeflerini net bir şekilde sunarak, katılımcılara kursun kapsamı hakkında bilgi verir.
