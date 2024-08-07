@@ -18,11 +18,6 @@ Kurs, aşağıdaki ana konuları kapsamaktadır:
 - Kalıtım, arayüzler ve soyut sınıflar gibi OOP özelliklerini anlamak ve kullanmak
 - Polimorfizm ve diğer OOP tekniklerini etkili bir şekilde kullanmak
 
-## Kurs Gereksinimleri
-
-- Temel Java bilgisi
-- Temel bilgisayar kullanma becerisi
-
 ## Eğitmen
 
 **Önder Teker**  
