@@ -27,6 +27,4 @@ Godoro Yazılım Proje Eğitim Yayıncılık Portal E-Ticaret
 
 Kurs ile ilgili sorularınız veya geri bildirimleriniz için Udemy platformu üzerinden eğitmen ile iletişime geçebilirsiniz.
 
----
 
-Bu README dosyası, kursun ana hatlarını ve içeriğini açıkça belirten bir yapıya sahiptir. Kursun detaylarını ve öğrenme hedeflerini net bir şekilde sunarak, katılımcılara kursun kapsamı hakkında bilgi verir.
